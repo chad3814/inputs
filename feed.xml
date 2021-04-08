@@ -4,7 +4,7 @@
         <title>My blog</title>
         <link>https://inputs.fabioluciano.dev/</link>
         <description>My Personal blog on books, cookies and kittens</description>
-        <lastBuildDate>Thu, 08 Apr 2021 04:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Apr 2021 04:45:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://inputs.fabioluciano.dev/feed.xml" rel="self" type="application/rss+xml"/>
@@ -129,17 +129,17 @@ Content
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cherry MX Red]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-red/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-red/</guid>
+            <title><![CDATA[Cherry MX Low Profile Speed]]></title>
+            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-low-profile-speed/</link>
+            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-low-profile-speed/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cherry MX Low Profile Speed]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-low-profile-speed/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-low-profile-speed/</guid>
+            <title><![CDATA[Cherry MX Red]]></title>
+            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-red/</link>
+            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-red/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
@@ -161,17 +161,17 @@ Content
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cherry MX Ultra Low Profile]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-ultra-low-profile/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-ultra-low-profile/</guid>
+            <title><![CDATA[Cherry MX Speed Silver]]></title>
+            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-speed-silver/</link>
+            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-speed-silver/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cherry MX Speed Silver]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-speed-silver/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-speed-silver/</guid>
+            <title><![CDATA[Cherry MX Ultra Low Profile]]></title>
+            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-ultra-low-profile/</link>
+            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-ultra-low-profile/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
