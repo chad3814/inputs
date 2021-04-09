@@ -4,182 +4,182 @@
         <title>My blog</title>
         <link>https://inputs.fabioluciano.dev/</link>
         <description>My Personal blog on books, cookies and kittens</description>
-        <lastBuildDate>Thu, 08 Apr 2021 05:04:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 21:01:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://inputs.fabioluciano.dev/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[001Key]]></title>
-            <link>https://inputs.fabioluciano.dev/keyboard/001-key/</link>
-            <guid>https://inputs.fabioluciano.dev/keyboard/001-key/</guid>
+            <link>https://inputs.fabioluciano.dev/keyboards/001-key/</link>
+            <guid>https://inputs.fabioluciano.dev/keyboards/001-key/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[_33-Keyboard]]></title>
-            <link>https://inputs.fabioluciano.dev/keyboard/33-keyboard/</link>
-            <guid>https://inputs.fabioluciano.dev/keyboard/33-keyboard/</guid>
+            <link>https://inputs.fabioluciano.dev/keyboards/33-keyboard/</link>
+            <guid>https://inputs.fabioluciano.dev/keyboards/33-keyboard/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Corne]]></title>
-            <link>https://inputs.fabioluciano.dev/keyboard/corne/</link>
-            <guid>https://inputs.fabioluciano.dev/keyboard/corne/</guid>
-            <content:encoded><![CDATA[
-Content
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Discipline]]></title>
-            <link>https://inputs.fabioluciano.dev/keyboard/discipline/</link>
-            <guid>https://inputs.fabioluciano.dev/keyboard/discipline/</guid>
+            <link>https://inputs.fabioluciano.dev/keyboards/corne/</link>
+            <guid>https://inputs.fabioluciano.dev/keyboards/corne/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Joynery]]></title>
-            <link>https://inputs.fabioluciano.dev/keyboard/joynery/</link>
-            <guid>https://inputs.fabioluciano.dev/keyboard/joynery/</guid>
+            <link>https://inputs.fabioluciano.dev/keyboards/joynery/</link>
+            <guid>https://inputs.fabioluciano.dev/keyboards/joynery/</guid>
+            <content:encoded><![CDATA[
+Content
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Discipline]]></title>
+            <link>https://inputs.fabioluciano.dev/keyboards/discipline/</link>
+            <guid>https://inputs.fabioluciano.dev/keyboards/discipline/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Lily58]]></title>
-            <link>https://inputs.fabioluciano.dev/keyboard/lily58/</link>
-            <guid>https://inputs.fabioluciano.dev/keyboard/lily58/</guid>
+            <link>https://inputs.fabioluciano.dev/keyboards/lily58/</link>
+            <guid>https://inputs.fabioluciano.dev/keyboards/lily58/</guid>
             <content:encoded><![CDATA[
-Content
+A great splitted keyboard
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Misterium]]></title>
-            <link>https://inputs.fabioluciano.dev/keyboard/misterium/</link>
-            <guid>https://inputs.fabioluciano.dev/keyboard/misterium/</guid>
+            <link>https://inputs.fabioluciano.dev/keyboards/misterium/</link>
+            <guid>https://inputs.fabioluciano.dev/keyboards/misterium/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Sofle]]></title>
-            <link>https://inputs.fabioluciano.dev/keyboard/sofle/</link>
-            <guid>https://inputs.fabioluciano.dev/keyboard/sofle/</guid>
+            <link>https://inputs.fabioluciano.dev/keyboards/sofle/</link>
+            <guid>https://inputs.fabioluciano.dev/keyboards/sofle/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Cherry MX Black]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-black/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-black/</guid>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-black/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-black/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Cherry MX Blue]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-blue/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-blue/</guid>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-blue/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-blue/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Cherry MX Brown]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-brown/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-brown/</guid>
-            <content:encoded><![CDATA[
-Content
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Cherry MX Clear]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-clear/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-clear/</guid>
-            <content:encoded><![CDATA[
-Content
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Cherry MX Green]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-green/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-green/</guid>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-brown/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-brown/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Cherry MX Grey]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-grey/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-grey/</guid>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-grey/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-grey/</guid>
+            <content:encoded><![CDATA[
+Content
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cherry MX Green]]></title>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-green/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-green/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Cherry MX Low Profile Red]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-low-profile-red/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-low-profile-red/</guid>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-low-profile-red/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-low-profile-red/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Cherry MX Low Profile Speed]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-low-profile-speed/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-low-profile-speed/</guid>
-            <content:encoded><![CDATA[
-Content
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Cherry MX Silent Black]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-silent-black/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-silent-black/</guid>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-low-profile-speed/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-low-profile-speed/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Cherry MX Red]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-red/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-red/</guid>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-red/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-red/</guid>
+            <content:encoded><![CDATA[
+Content
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cherry MX Clear]]></title>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-clear/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-clear/</guid>
+            <content:encoded><![CDATA[
+Content
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cherry MX Silent Black]]></title>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-silent-black/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-silent-black/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Cherry MX Silent Red]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-silent-red/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-silent-red/</guid>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-silent-red/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-silent-red/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Cherry MX Speed Silver]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-speed-silver/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-speed-silver/</guid>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-speed-silver/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-speed-silver/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Cherry MX Ultra Low Profile]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/cherry-mx-ultra-low-profile/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/cherry-mx-ultra-low-profile/</guid>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-ultra-low-profile/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-ultra-low-profile/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Box Red]]></title>
-            <link>https://inputs.fabioluciano.dev/switch/box-red/</link>
-            <guid>https://inputs.fabioluciano.dev/switch/box-red/</guid>
+            <link>https://inputs.fabioluciano.dev/switches/box-red/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/box-red/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
