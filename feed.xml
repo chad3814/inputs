@@ -4,7 +4,7 @@
         <title>My blog</title>
         <link>https://inputs.fabioluciano.dev/</link>
         <description>My Personal blog on books, cookies and kittens</description>
-        <lastBuildDate>Fri, 09 Apr 2021 21:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 04:39:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://inputs.fabioluciano.dev/feed.xml" rel="self" type="application/rss+xml"/>
@@ -57,14 +57,6 @@ A great splitted keyboard
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Misterium]]></title>
-            <link>https://inputs.fabioluciano.dev/keyboards/misterium/</link>
-            <guid>https://inputs.fabioluciano.dev/keyboards/misterium/</guid>
-            <content:encoded><![CDATA[
-Content
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Sofle]]></title>
             <link>https://inputs.fabioluciano.dev/keyboards/sofle/</link>
             <guid>https://inputs.fabioluciano.dev/keyboards/sofle/</guid>
@@ -73,17 +65,17 @@ Content
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cherry MX Black]]></title>
-            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-black/</link>
-            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-black/</guid>
+            <title><![CDATA[Misterium]]></title>
+            <link>https://inputs.fabioluciano.dev/keyboards/misterium/</link>
+            <guid>https://inputs.fabioluciano.dev/keyboards/misterium/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cherry MX Blue]]></title>
-            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-blue/</link>
-            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-blue/</guid>
+            <title><![CDATA[Cherry MX Black]]></title>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-black/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-black/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
@@ -100,6 +92,14 @@ Content
             <title><![CDATA[Cherry MX Clear]]></title>
             <link>https://inputs.fabioluciano.dev/switches/cherry-mx-clear/</link>
             <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-clear/</guid>
+            <content:encoded><![CDATA[
+Content
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cherry MX Blue]]></title>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-blue/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-blue/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
@@ -169,17 +169,17 @@ Content
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Box Red]]></title>
-            <link>https://inputs.fabioluciano.dev/switches/box-red/</link>
-            <guid>https://inputs.fabioluciano.dev/switches/box-red/</guid>
+            <title><![CDATA[Cherry MX Ultra Low Profile]]></title>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-ultra-low-profile/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-ultra-low-profile/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cherry MX Ultra Low Profile]]></title>
-            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-ultra-low-profile/</link>
-            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-ultra-low-profile/</guid>
+            <title><![CDATA[Box Red]]></title>
+            <link>https://inputs.fabioluciano.dev/switches/box-red/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/box-red/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
