@@ -4,7 +4,7 @@
         <title>My blog</title>
         <link>https://inputs.fabioluciano.dev/</link>
         <description>My Personal blog on books, cookies and kittens</description>
-        <lastBuildDate>Sun, 11 Apr 2021 08:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 19:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://inputs.fabioluciano.dev/feed.xml" rel="self" type="application/rss+xml"/>
@@ -57,11 +57,11 @@ A great splitted keyboard
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Misterium]]></title>
-            <link>https://inputs.fabioluciano.dev/keyboards/misterium/</link>
-            <guid>https://inputs.fabioluciano.dev/keyboards/misterium/</guid>
+            <title><![CDATA[Mysterium]]></title>
+            <link>https://inputs.fabioluciano.dev/keyboards/mysterium/</link>
+            <guid>https://inputs.fabioluciano.dev/keyboards/mysterium/</guid>
             <content:encoded><![CDATA[
-Content
+A through-hole TKL keyboard with exposed components. Everything comes in a kit.
 ]]></content:encoded>
         </item>
         <item>
@@ -97,17 +97,17 @@ Content
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cherry MX Clear]]></title>
-            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-clear/</link>
-            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-clear/</guid>
+            <title><![CDATA[Cherry MX Green]]></title>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-green/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-green/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cherry MX Green]]></title>
-            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-green/</link>
-            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-green/</guid>
+            <title><![CDATA[Cherry MX Clear]]></title>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-clear/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-clear/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
@@ -137,17 +137,17 @@ Content
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cherry MX Red]]></title>
-            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-red/</link>
-            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-red/</guid>
+            <title><![CDATA[Cherry MX Silent Black]]></title>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-silent-black/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-silent-black/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cherry MX Silent Black]]></title>
-            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-silent-black/</link>
-            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-silent-black/</guid>
+            <title><![CDATA[Cherry MX Red]]></title>
+            <link>https://inputs.fabioluciano.dev/switches/cherry-mx-red/</link>
+            <guid>https://inputs.fabioluciano.dev/switches/cherry-mx-red/</guid>
             <content:encoded><![CDATA[
 Content
 ]]></content:encoded>
